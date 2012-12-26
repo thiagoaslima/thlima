@@ -1,0 +1,55 @@
+/* line 20, ../scss/ie.scss */
+.lt-ie9 header {
+  position: relative;
+  width: auto;
+  height: auto;
+}
+/* line 25, ../scss/ie.scss */
+.lt-ie9 header .menu {
+  display: none;
+}
+/* line 29, ../scss/ie.scss */
+.lt-ie9 header .logo {
+  display: inline;
+}
+/* line 33, ../scss/ie.scss */
+.lt-ie9 header .global {
+  display: inline;
+  padding-right: 3em;
+}
+/* line 37, ../scss/ie.scss */
+.lt-ie9 header .global a {
+  color: #666666;
+  position: relative;
+}
+/* line 41, ../scss/ie.scss */
+.lt-ie9 header .global a span {
+  position: absolute;
+  left: 0;
+}
+/* line 47, ../scss/ie.scss */
+.lt-ie9 header .global li {
+  display: inline;
+}
+/* line 51, ../scss/ie.scss */
+.lt-ie9 header .global .sub {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+/* line 56, ../scss/ie.scss */
+.lt-ie9 header .global .sub li {
+  display: inline;
+}
+/* line 63, ../scss/ie.scss */
+.lt-ie9 header .lang {
+  position: absolute;
+  top: 0.5em;
+  right: 2em;
+}
+
+/* line 73, ../scss/ie.scss */
+#main .preview {
+  width: 15em;
+  height: 15em;
+}

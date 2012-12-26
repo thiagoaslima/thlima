@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"tr",
+				"trs	transition"
+			],
+			[
+				"co",
+				"col	color"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"dis",
+				"dis	display"
+			],
+			[
+				"i",
+				"inc	@include"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"input",
+				"input	input - checkbox"
+			],
+			[
 				"in",
 				"inline-block"
 			],
@@ -28,10 +64,6 @@
 				"fw:n	font-weight:normal"
 			],
 			[
-				"pad",
-				"padding"
-			],
-			[
 				"di",
 				"d-ib	display: inline-block;"
 			],
@@ -48,24 +80,12 @@
 				"bxz	box-sizing"
 			],
 			[
-				"i",
-				"inline-block"
-			],
-			[
 				"marg",
 				"margin"
 			],
 			[
-				"pos",
-				"pos:a	position:absolute"
-			],
-			[
 				"br",
 				"border-radius"
-			],
-			[
-				"tr",
-				"trf	transform"
 			],
 			[
 				"fon",
@@ -94,10 +114,6 @@
 			[
 				"paddin",
 				"padding-right"
-			],
-			[
-				"he",
-				"header"
 			],
 			[
 				"padd",
@@ -228,10 +244,6 @@
 				"mesesMin"
 			],
 			[
-				"input",
-				"input	input - text"
-			],
-			[
 				"ar",
 				"array_shift"
 			],
@@ -282,10 +294,6 @@
 			[
 				"bgi",
 				"bgi	background-image: url(${0});"
-			],
-			[
-				"dis",
-				"display"
 			],
 			[
 				"do",
@@ -460,10 +468,6 @@
 				"line_class"
 			],
 			[
-				"co",
-				"console"
-			],
-			[
 				"z",
 				"z-index"
 			],
@@ -510,10 +514,6 @@
 			[
 				"wp_p",
 				"wp_print_scripts"
-			],
-			[
-				"lvm_peop",
-				"lvm_people"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3237,
+				"buffer_size": 3505,
 				"line_ending": "Unix"
 			}
 		},
@@ -556,7 +556,7 @@
 			"file": "scss/main.scss",
 			"settings":
 			{
-				"buffer_size": 8854,
+				"buffer_size": 11454,
 				"line_ending": "Unix"
 			}
 		},
@@ -564,7 +564,7 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 2925,
+				"buffer_size": 8739,
 				"line_ending": "Windows"
 			}
 		}
@@ -572,9 +572,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 35.0,
+		"height": 357.0,
 		"selected_items":
 		[
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
 			[
 				"en",
 				"Web encoder: HTML encode selection"
@@ -694,10 +698,6 @@
 			[
 				"html ",
 				"Snippet: DOCTYPE HTML"
-			],
-			[
-				"html",
-				"Set Syntax: HTML5"
 			],
 			[
 				"package",
@@ -972,7 +972,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 528.0
+		"width": 484.0
 	},
 	"console":
 	{
@@ -1124,7 +1124,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 90.0,
+		"height": 0.0,
 		"where_history":
 		[
 		]
@@ -1134,6 +1134,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"0.5s",
+			"1.2s",
+			"2s",
+			"5s",
+			"1s",
+			"up",
+			"min",
+			"Include",
+			"include",
+			"768up",
+			"Include",
+			"include",
 			"min",
 			"block",
 			"url('",
@@ -1249,19 +1261,7 @@
 			"runTemplates",
 			"getTemplates",
 			"thisObj",
-			"$contatos",
-			"0.5",
-			"update_post_meta",
-			"tipo_field",
-			"lvm_people_lattes",
-			"email",
-			"obj.hasClass",
-			"getContato(obj)",
-			"cit",
-			"cit ",
-			"cit",
-			"prep",
-			"sobreSep.length-1"
+			"$contatos"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1293,7 +1293,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1301,15 +1301,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 3237,
+						"buffer_size": 3505,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1604,
-								1604
+								1724,
+								1724
 							]
 						],
 						"settings":
@@ -1407,7 +1407,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 324.0,
+						"translation.y": 248.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1523,7 +1523,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 331.0,
+						"translation.y": 46.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1639,7 +1639,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 154.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1662,8 +1662,98 @@
 						],
 						"settings":
 						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
 							"auto_name": "html:5",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jslint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 1,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1682,15 +1772,15 @@
 					"file": "scss/main.scss",
 					"settings":
 					{
-						"buffer_size": 8854,
+						"buffer_size": 11454,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1177,
-								1177
+								4531,
+								4513
 							]
 						],
 						"settings":
@@ -1788,7 +1878,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 290.0,
+						"translation.y": 2673.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1798,15 +1888,15 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 2925,
+						"buffer_size": 8739,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2925,
-								2925
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1940,7 +2030,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.482954545455,
 			1.0
 		],
 		"rows":
@@ -1991,6 +2081,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 208.0,
+	"side_bar_width": 179.0,
 	"status_bar_visible": true
 }

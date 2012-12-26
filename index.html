@@ -14,13 +14,16 @@
 
         <!-- <link rel="stylesheet" href="css/normalize.css"> -->
         <link rel="stylesheet" href="css/main.css">
+        <!--[if lt IE 9]>
+            <link rel="stylesheet" href="css/ie.css">
+        <![endif]-->
         <script src="js/vendor/modernizr-2.6.2.min.js">
             var test = [
                 svg,
                 csstransitions,
                 csstranslate,
                 csschecked
-            ]
+            ];
         </script>
     </head>
     <body>
@@ -36,13 +39,13 @@
                 <h2>Design &amp; Development</h2>
             </hgroup>
 
-            <img class="logo" src="img/logo_o.svg" alt="logo">
+            <img class="logo i_svg" src="img/logo_o.png" alt="logo">
 
-            <input type="checkbox" id="menu" class="menu">
-            <label for="menu">Menu</label>
+            <input type="checkbox" id="menu">
+            <label class="menu" for="menu">Menu</label>
 
             <ul class="nav global">
-                <li><a href="#">Trabalhos<span></span></a></li>
+                <li class="trabalhos"><a href="#">Trabalhos<span></span></a></li>
                 <li><ul class="nav sub">
                     <li>
                         <a href="portfolio/all/">Todos<span></span></a>
@@ -54,9 +57,9 @@
                         <a href="portfolio/graphic/">Gráfico<span></span></a>
                     </li>
                 </ul></li>
-                <li><a href="#">Sobre mim<span></span></a></li>
-                <li><a href="#">Contrate<span></span></a></li>
-                <li><a href="#">Contato<span></span></a></li>
+                <li class="sobre"><a href="#">Sobre mim<span></span></a></li>
+                <li class="contrate"><a href="#">Contrate<span></span></a></li>
+                <li class="contato"><a href="#">Contato<span></span></a></li>
             </ul>
 
             <aside class="nav lang">
@@ -67,6 +70,13 @@
 
         </header>
 
+
+        <div id="main">
+            <div class="preview w1"></div>
+            <div class="preview w2"></div>
+            <div class="preview w3"></div>
+            <div class="preview w4"></div>
+        </div>
 
 
         <!-- Script section -->
