@@ -1,0 +1,13 @@
+/* line 5, ../scss/bg.scss */
+#abl .pageheader {
+  background-image: url(/img/backtop_abl.jpg);
+}
+/* line 13, ../scss/bg.scss */
+#abl #main header figure {
+  margin-top: 1.5em;
+  width: 50%;
+}
+/* line 18, ../scss/bg.scss */
+#abl #main header figure img {
+  width: 80%;
+}

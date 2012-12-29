@@ -1,0 +1,123 @@
+%!Adobe-FontList 1.14
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dev\thlima.dev\layout\thlimaDev_v003 Folder\Document fonts\arial.ttf
+DataFormat:sfntData
+FileLength:778552
+FileModTime:1305070445
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia
+FamilyName:Georgia
+StyleName:Regular
+FullName:Georgia
+MenuName:Georgia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dev\thlima.dev\layout\thlimaDev_v003 Folder\Document fonts\georgia.ttf
+DataFormat:sfntData
+FileLength:157080
+FileModTime:1244670221
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia-Italic
+FamilyName:Georgia
+StyleName:Italic
+FullName:Georgia Italic
+MenuName:Georgia
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dev\thlima.dev\layout\thlimaDev_v003 Folder\Document fonts\georgiai.ttf
+DataFormat:sfntData
+FileLength:162380
+FileModTime:1244670221
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia-BoldItalic
+FamilyName:Georgia
+StyleName:Bold Italic
+FullName:Georgia Bold Italic
+MenuName:Georgia
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dev\thlima.dev\layout\thlimaDev_v003 Folder\Document fonts\georgiaz.ttf
+DataFormat:sfntData
+FileLength:164332
+FileModTime:1244670221
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceCodePro-Black
+FamilyName:Source Code Pro
+StyleName:Black
+FullName:Source Code Pro Black
+MenuName:Source Code Pro Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dev\thlima.dev\layout\thlimaDev_v003 Folder\Document fonts\SourceCodePro-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:88472
+FileModTime:1354728512
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceCodePro-Semibold
+FamilyName:Source Code Pro
+StyleName:Semibold
+FullName:Source Code Pro Semibold
+MenuName:Source Code Pro Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\dev\thlima.dev\layout\thlimaDev_v003 Folder\Document fonts\SourceCodePro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:89576
+FileModTime:1354728540
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+
